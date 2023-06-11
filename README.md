@@ -43,6 +43,7 @@ Generate RSA keys by running
 node secret/rsa.js
 ```
 Run sql script in `db/schema.sql`
+<br>
 Start application
 ```bash
 npx tsc
