@@ -45,5 +45,6 @@ node secret/rsa.js
 Run sql script in `db/schema.sql`
 Start application
 ```bash
+npx tsc
 npm start
 ```
